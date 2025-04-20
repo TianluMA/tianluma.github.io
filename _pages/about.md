@@ -71,6 +71,8 @@ Research Interests
 
 
 Useful Link
-======  
+===
 ---
 - [Lab for Advanced Power Electronics](https://www.ee.cityu.edu.hk/~chjiang/)
+- [CityUHK Scholars - Tianlu Ma](https://scholars.cityu.edu.hk/en/persons/tianlu-ma(938c498f-214b-40fd-807d-9360aa729b20).html)
+
