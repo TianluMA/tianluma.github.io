@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Tianlu's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Tianlu Ma"
 description              : &description "personal description"
 url                      : ""       # 本地运行时要设为空，不要写 GitHub 地址
 baseurl                  : ""   # 如果你是部署在根目录，也设为空
