@@ -16,9 +16,27 @@ Tianlu Ma is currently a Postdoctoral Fellow at The Hong Kong Polytechnic Univer
 His research focuses on wireless power transfer (WPT), including system modeling, control strategies, coupler design, and magnetic material optimization. He has developed a high-frequency (MHz-level) wireless charging system for biomedical applications and built a systematic research framework that integrates theoretical innovation with engineering application.
 </p>
 <p>
-Dr. Ma has authored 15 SCI-indexed journal papers in prestigious journals. He has received numerous awards and honors, including Gold Medal at the 49th International Exhibition of Inventions of Geneva, the First Prize & Best Presentation Award at the IEEE PELS Student Symposium on Power Electronics in Asia (SSPEL-Asia), and the Outstanding Academic Performance Award from City University of Hong Kong.
+Dr. Ma has authored 19 SCI-indexed journal papers in prestigious journals. He has received numerous awards and honors, including Gold Medal at the 49th International Exhibition of Inventions of Geneva, the First Prize & Best Presentation Award at the IEEE PELS Student Symposium on Power Electronics in Asia (SSPEL-Asia), and the Outstanding Academic Performance Award from City University of Hong Kong.
 </p>
 </div>
+
+
+<div style="text-align:center; margin: 2em 0;">
+  <h3>🎓 Commencement Speech by Graduate Representative — Tianlu Ma</h3>
+  <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;border-radius:12px;box-shadow:0 0 10px rgba(0,0,0,0.2);">
+    <iframe 
+      src="https://www.youtube.com/embed/7JGy9q7hfo8"
+      title="Commencement Speech — Tianlu Ma"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+  <p style="font-style:italic; color:gray;">Video courtesy of City University of Hong Kong, Class of 2025</p>
+</div>
+
+
+
 
 
 Working Experience  
@@ -49,7 +67,13 @@ Academic Services
 
 - **Young Editorial Board Member**, *Wireless Power Transfer* (Maximum Academic Press)  
 - **Special Session Chair**, *2025 International Conference on Electrical, Electronic and Networked Energy Systems (EENES 2025)*
+- **Special Session Chair**, *2025 International Conference on Wireless Power Transfer (ICWPT 2025)*
+- Active reviewer for TPEL, TIE, TII, TTE, JESTPE, etc. 
 
+Funding Received
+======  
+---
+- **Postdoc Matching Fund**, *The Hong Kong Polytechnic University* (**around 744,000 HKD**), *July 2025 – Now*
 
 
 Research Interests

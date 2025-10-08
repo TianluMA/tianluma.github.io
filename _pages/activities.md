@@ -8,6 +8,33 @@ author_profile: true
 
 ## Recent Activities
 
+### 2025.09.24 – 09.26: Participation in PCIM Asia 2025 (Shanghai, China)
+
+<div align="justify">
+From 24 to 26 September 2025, I participated in PCIM Asia 2025, held in Shanghai, China.  
+This international conference and exhibition brought together experts and researchers in power electronics and intelligent motion.  
+It was an excellent opportunity to exchange ideas on emerging technologies such as high-frequency converters and wireless power transfer systems.
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 90%; margin: 1.5em auto;">
+  <img src="/images/activities/2025 PCIM/PCIM1.jpg" alt="PCIM Asia 2025 - Photo 1" style="width: 100%; height: auto; border-radius: 8px; border: 1px solid #ddd;">
+  <img src="/images/activities/2025 PCIM/PCIM2.jpg" alt="PCIM Asia 2025 - Photo 2" style="width: 100%; height: auto; border-radius: 8px; border: 1px solid #ddd;">
+</div>
+
+
+
+### 2025.06.16: CityUHK Department of Electrical Engineering Commencement Ceremony
+
+<div align="justify">
+On 16 June 2025, I attended the Commencement Ceremony of the Department of Electrical Engineering, City University of Hong Kong, as the <b>Graduate Representative</b> for the Class of 2025.  
+It was a memorable occasion celebrating the academic achievements of our graduates. I was honored to deliver a speech on behalf of the graduating class.
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 90%; margin: 1.5em auto;">
+  <img src="/images/activities/2025 Graduation/Graduation1.jpg" alt="CityUHK Commencement 2025 - Photo 1" style="max-height: 300px; width: auto; border-radius: 8px; border: 1px solid #ddd;">
+  <img src="/images/activities/2025 Graduation/Graduation2.jpg" alt="CityUHK Commencement 2025 - Photo 2" style="max-height: 300px; width: auto; border-radius: 8px; border: 1px solid #ddd;">
+</div>
+
 
 ### 2025.04.25 - 04.27: The 18th Symposium on Power Electronics & Electrical Drives (SPEED 2025)
 
